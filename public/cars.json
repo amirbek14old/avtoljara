@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Chevrolet Cobalt","type":"Седан","seats":5,"gear":"Автомат","price":280000,"color":"#d9d4cc"},
+  {"id":2,"name":"Chevrolet Malibu","type":"Бизнес","seats":5,"gear":"Автомат","price":520000,"color":"#2b2b2b"},
+  {"id":3,"name":"Chevrolet Tracker","type":"Кроссовер","seats":5,"gear":"Автомат","price":400000,"color":"#c7472d"},
+  {"id":4,"name":"Chevrolet Spark","type":"Хэтчбек","seats":4,"gear":"Механика","price":200000,"color":"#6f9fd8"},
+  {"id":5,"name":"Chevrolet Gentra","type":"Седан","seats":5,"gear":"Автомат","price":300000,"color":"#ffffff"},
+  {"id":6,"name":"Chevrolet Onix","type":"Седан","seats":5,"gear":"Автомат","price":330000,"color":"#8a8f96"}
+]
